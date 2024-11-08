@@ -54,3 +54,17 @@ section form button{
     color: white;
     cursor: pointer;
 }
+
+.container{
+    width: 700px;
+    margin : 0 auto;
+}
+
+header ul{
+    display:flex;
+    justify-content: flex-end;
+}
+header ul li {
+    margin-left: 20px;
+    font-size: 1.6rem;
+}
