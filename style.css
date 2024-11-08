@@ -88,3 +88,12 @@ header ul li {
 .gallerie article h2{
     flex:1;
 }
+
+
+
+.form-contact{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 700px;
+}
